@@ -1,41 +1,78 @@
 {
-  "week": 6,
+  "week": 7,
   "teamsChecked": 4,
   "totalAlerts": 6,
-  "injuryAlerts": 2,
-  "byeAlerts": 4,
+  "injuryAlerts": 1,
+  "byeAlerts": 5,
   "standings": [
     {
       "rank": 1,
       "team": "Diya Knows Ball",
       "wins": 4,
-      "losses": 1,
+      "losses": 2,
       "ties": 0,
-      "points": 858.12
+      "points": 984.72
     },
     {
       "rank": 2,
       "team": "Ishva's ER Waiting room",
-      "wins": 3,
+      "wins": 4,
       "losses": 2,
       "ties": 0,
-      "points": 731.26
+      "points": 854.52
     },
     {
       "rank": 3,
-      "team": "ImmaWin",
+      "team": "Khushi's Scoregasms",
       "wins": 2,
-      "losses": 3,
+      "losses": 4,
       "ties": 0,
-      "points": 767.74
+      "points": 882.96
     },
     {
       "rank": 4,
-      "team": "Khushi's Scoregasms",
-      "wins": 1,
+      "team": "ImmaWin",
+      "wins": 2,
       "losses": 4,
       "ties": 0,
-      "points": 746.76
+      "points": 878.34
+    }
+  ],
+  "topScorers": [
+    {
+      "player": "Christian McCaffrey",
+      "team": "Ishva's ER Waiting room",
+      "position": 2,
+      "points": 30.700000000000003,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3117251.png"
+    },
+    {
+      "player": "Malik Nabers",
+      "team": "Khushi's Scoregasms",
+      "position": 3,
+      "points": 28.5,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4595348.png"
+    },
+    {
+      "player": "Kenneth Walker III",
+      "team": "Khushi's Scoregasms",
+      "position": 2,
+      "points": 27.9,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4567048.png"
+    },
+    {
+      "player": "Jaxon Smith-Njigba",
+      "team": "Ishva's ER Waiting room",
+      "position": 3,
+      "points": 25.4,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4430878.png"
+    },
+    {
+      "player": "James Cook III",
+      "team": "Khushi's Scoregasms",
+      "position": 2,
+      "points": 24.3,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4379399.png"
     }
   ],
   "teams": [
@@ -43,66 +80,67 @@
       "name": "Ishva's ER Waiting room",
       "alerts": [
         {
-          "player": "Jaxon Smith-Njigba",
-          "team": "SEA",
+          "player": "Mike Evans",
+          "team": "SF",
           "position": 3,
           "reason": "INJURY: QUESTIONABLE",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4430878.png"
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/16737.png"
         }
       ],
       "byeCount": 0
     },
     {
       "name": "ImmaWin",
-      "alerts": [],
-      "byeCount": 0
+      "alerts": [
+        {
+          "player": "Jayden Daniels",
+          "team": "WSH",
+          "position": 1,
+          "reason": "BYE WEEK",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426348.png"
+        }
+      ],
+      "byeCount": 1
     },
     {
       "name": "Diya Knows Ball",
       "alerts": [
         {
-          "player": "Jahmyr Gibbs",
-          "team": "DET",
-          "position": 2,
-          "reason": "BYE WEEK",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429795.png"
-        },
-        {
-          "player": "Amon-Ra St. Brown",
-          "team": "DET",
+          "player": "Parker Washington",
+          "team": "JAX",
           "position": 3,
           "reason": "BYE WEEK",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4374302.png"
-        },
-        {
-          "player": "CeeDee Lamb",
-          "team": "DAL",
-          "position": 3,
-          "reason": "INJURY: QUESTIONABLE",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241389.png"
-        },
-        {
-          "player": "Chase Brown",
-          "team": "CIN",
-          "position": 2,
-          "reason": "BYE WEEK",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4362238.png"
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4432620.png"
         }
       ],
-      "byeCount": 3
+      "byeCount": 1
     },
     {
       "name": "Khushi's Scoregasms ",
       "alerts": [
         {
-          "player": "Ja'Marr Chase",
-          "team": "CIN",
-          "position": 3,
+          "player": "Josh Allen",
+          "team": "BUF",
+          "position": 1,
           "reason": "BYE WEEK",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4362628.png"
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3918298.png"
+        },
+        {
+          "player": "James Cook III",
+          "team": "BUF",
+          "position": 2,
+          "reason": "BYE WEEK",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4379399.png"
+        },
+        {
+          "player": "Cameron Dicker",
+          "team": "LAC",
+          "position": 5,
+          "reason": "BYE WEEK",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4362081.png"
         }
       ],
-      "byeCount": 1
+      "byeCount": 3
     }
   ]
 }
