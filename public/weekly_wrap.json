@@ -1,78 +1,78 @@
 {
-  "week": 8,
+  "week": 9,
   "teamsChecked": 4,
-  "totalAlerts": 10,
-  "injuryAlerts": 7,
+  "totalAlerts": 6,
+  "injuryAlerts": 3,
   "byeAlerts": 3,
   "standings": [
     {
       "rank": 1,
       "team": "Diya Knows Ball",
-      "wins": 5,
+      "wins": 6,
       "losses": 2,
       "ties": 0,
-      "points": 1142.8600000000001
+      "points": 1291.2200000000003
     },
     {
       "rank": 2,
       "team": "Ishva's ER Waiting room",
-      "wins": 4,
+      "wins": 5,
       "losses": 3,
       "ties": 0,
-      "points": 998.9399999999999
+      "points": 1168.72
     },
     {
       "rank": 3,
       "team": "ImmaWin",
       "wins": 3,
-      "losses": 4,
+      "losses": 5,
       "ties": 0,
-      "points": 1013.04
+      "points": 1146.42
     },
     {
       "rank": 4,
       "team": "Khushi's Scoregasms",
       "wins": 2,
-      "losses": 5,
+      "losses": 6,
       "ties": 0,
-      "points": 985.76
+      "points": 1132.52
     }
   ],
   "topScorers": [
     {
-      "player": "Tony Pollard",
-      "team": "ImmaWin",
-      "position": 2,
-      "points": 36.5,
-      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3916148.png"
-    },
-    {
-      "player": "Jaxon Smith-Njigba",
-      "team": "Ishva's ER Waiting room",
-      "position": 3,
-      "points": 31.3,
-      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4430878.png"
-    },
-    {
       "player": "Joe Burrow",
       "team": "Ishva's ER Waiting room",
       "position": 1,
-      "points": 28.88,
+      "points": 39.480000000000004,
       "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915511.png"
     },
     {
-      "player": "Drake Maye",
-      "team": "Diya Knows Ball",
-      "position": 1,
-      "points": 27.439999999999998,
-      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4431452.png"
+      "player": "Tee Higgins",
+      "team": "Ishva's ER Waiting room",
+      "position": 3,
+      "points": 37.5,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4239993.png"
     },
     {
-      "player": "Trey McBride",
+      "player": "Ja'Marr Chase",
       "team": "Khushi's Scoregasms",
+      "position": 3,
+      "points": 31.1,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4362628.png"
+    },
+    {
+      "player": "Tony Pollard",
+      "team": "ImmaWin",
+      "position": 2,
+      "points": 28.700000000000003,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3916148.png"
+    },
+    {
+      "player": "Brock Bowers",
+      "team": "ImmaWin",
       "position": 4,
-      "points": 27.1,
-      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4361307.png"
+      "points": 28.200000000000003,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4432665.png"
     }
   ],
   "teams": [
@@ -80,94 +80,65 @@
       "name": "Ishva's ER Waiting room",
       "alerts": [
         {
-          "player": "A.J. Brown",
-          "team": "NE",
+          "player": "Michael Wilson",
+          "team": "ARI",
           "position": 3,
           "reason": "INJURY: QUESTIONABLE",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4047646.png"
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4360761.png"
         },
         {
-          "player": "Saquon Barkley",
-          "team": "PHI",
-          "position": 2,
-          "reason": "INJURY: QUESTIONABLE",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3929630.png"
-        },
-        {
-          "player": "George Kittle",
-          "team": "SF",
-          "position": 4,
-          "reason": "BYE WEEK",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3040151.png"
-        },
-        {
-          "player": "Ka'imi Fairbairn",
-          "team": "HOU",
-          "position": 5,
-          "reason": "BYE WEEK",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2971573.png"
-        },
-        {
-          "player": "Aaron Jones Sr.",
-          "team": "MIN",
-          "position": 2,
-          "reason": "INJURY: QUESTIONABLE",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3042519.png"
-        }
-      ],
-      "byeCount": 2
-    },
-    {
-      "name": "ImmaWin",
-      "alerts": [
-        {
-          "player": "Brock Bowers",
-          "team": "LV",
+          "player": "Hunter Henry",
+          "team": "NE",
           "position": 4,
           "reason": "INJURY: QUESTIONABLE",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4432665.png"
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3046439.png"
         }
       ],
       "byeCount": 0
     },
     {
-      "name": "Diya Knows Ball",
+      "name": "ImmaWin",
       "alerts": [
         {
-          "player": "Jahmyr Gibbs",
-          "team": "DET",
+          "player": "Tony Pollard",
+          "team": "TEN",
           "position": 2,
-          "reason": "INJURY: QUESTIONABLE",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429795.png"
-        },
-        {
-          "player": "Amon-Ra St. Brown",
-          "team": "DET",
-          "position": 3,
-          "reason": "INJURY: QUESTIONABLE",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4374302.png"
-        },
-        {
-          "player": "Isaiah Likely",
-          "team": "NYG",
-          "position": 4,
           "reason": "BYE WEEK",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4361050.png"
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3916148.png"
         }
       ],
       "byeCount": 1
     },
     {
-      "name": "Khushi's Scoregasms ",
+      "name": "Diya Knows Ball",
       "alerts": [
         {
-          "player": "Ja'Marr Chase",
-          "team": "CIN",
+          "player": "Steelers D/ST",
+          "team": "PIT",
+          "position": 16,
+          "reason": "BYE WEEK",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/-16023.png"
+        },
+        {
+          "player": "Christian Watson",
+          "team": "GB",
           "position": 3,
           "reason": "INJURY: QUESTIONABLE",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4362628.png"
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4248528.png"
+        },
+        {
+          "player": "Jaylen Warren",
+          "team": "PIT",
+          "position": 2,
+          "reason": "BYE WEEK",
+          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4569987.png"
         }
       ],
+      "byeCount": 2
+    },
+    {
+      "name": "Khushi's Scoregasms ",
+      "alerts": [],
       "byeCount": 0
     }
   ]
