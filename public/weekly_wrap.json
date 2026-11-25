@@ -1,174 +1,100 @@
 {
-  "week": 11,
+  "week": 12,
   "teamsChecked": 4,
-  "totalAlerts": 10,
-  "injuryAlerts": 2,
-  "byeAlerts": 8,
+  "totalAlerts": 0,
+  "injuryAlerts": 0,
+  "byeAlerts": 0,
   "standings": [
     {
       "rank": 1,
       "team": "Ishva's ER Waiting room",
-      "wins": 7,
+      "wins": 8,
       "losses": 3,
       "ties": 0,
-      "points": 1527.42
+      "points": 1694.22
     },
     {
       "rank": 2,
       "team": "Diya Knows Ball",
-      "wins": 6,
+      "wins": 7,
       "losses": 4,
       "ties": 0,
-      "points": 1568.8000000000002
+      "points": 1758.1600000000003
     },
     {
       "rank": 3,
       "team": "Khushi's Scoregasms",
       "wins": 4,
-      "losses": 6,
+      "losses": 7,
       "ties": 0,
-      "points": 1432.52
+      "points": 1565.78
     },
     {
       "rank": 4,
       "team": "ImmaWin",
       "wins": 3,
-      "losses": 7,
+      "losses": 8,
       "ties": 0,
-      "points": 1416.6200000000001
+      "points": 1551.6200000000001
     }
   ],
   "topScorers": [
     {
-      "player": "Christian McCaffrey",
-      "team": "Ishva's ER Waiting room",
+      "player": "Dak Prescott",
+      "team": "ImmaWin",
+      "position": 1,
+      "points": 35.9,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2577417.png"
+    },
+    {
+      "player": "Jonah Coleman",
+      "team": "Diya Knows Ball",
       "position": 2,
-      "points": 46.3,
-      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3117251.png"
+      "points": 34.900000000000006,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4702555.png"
+    },
+    {
+      "player": "CeeDee Lamb",
+      "team": "Diya Knows Ball",
+      "position": 3,
+      "points": 30.200000000000003,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241389.png"
+    },
+    {
+      "player": "Ashton Jeanty",
+      "team": "Khushi's Scoregasms",
+      "position": 2,
+      "points": 27.9,
+      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4890973.png"
     },
     {
       "player": "Jahmyr Gibbs",
       "team": "Diya Knows Ball",
       "position": 2,
-      "points": 44.2,
+      "points": 27.8,
       "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4429795.png"
-    },
-    {
-      "player": "George Pickens",
-      "team": "Ishva's ER Waiting room",
-      "position": 3,
-      "points": 43.5,
-      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426354.png"
-    },
-    {
-      "player": "Dak Prescott",
-      "team": "ImmaWin",
-      "position": 1,
-      "points": 34.42,
-      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2577417.png"
-    },
-    {
-      "player": "Chuba Hubbard",
-      "team": "Ishva's ER Waiting room",
-      "position": 2,
-      "points": 34.2,
-      "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241416.png"
     }
   ],
   "teams": [
     {
       "name": "Ishva's ER Waiting room",
-      "alerts": [
-        {
-          "player": "Matthew Golden",
-          "team": "GB",
-          "position": 3,
-          "reason": "BYE WEEK",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4701936.png"
-        },
-        {
-          "player": "Rams D/ST",
-          "team": "LAR",
-          "position": 16,
-          "reason": "BYE WEEK",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/-16014.png"
-        }
-      ],
-      "byeCount": 2
+      "alerts": [],
+      "byeCount": 0
     },
     {
       "name": "ImmaWin",
-      "alerts": [
-        {
-          "player": "Brock Bowers",
-          "team": "LV",
-          "position": 4,
-          "reason": "INJURY: QUESTIONABLE",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4432665.png"
-        },
-        {
-          "player": "DeVonta Smith",
-          "team": "PHI",
-          "position": 3,
-          "reason": "INJURY: QUESTIONABLE",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4241478.png"
-        },
-        {
-          "player": "Seahawks D/ST",
-          "team": "SEA",
-          "position": 16,
-          "reason": "BYE WEEK",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/-16026.png"
-        }
-      ],
-      "byeCount": 1
+      "alerts": [],
+      "byeCount": 0
     },
     {
       "name": "Diya Knows Ball",
-      "alerts": [
-        {
-          "player": "Bijan Robinson",
-          "team": "ATL",
-          "position": 2,
-          "reason": "BYE WEEK",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4430807.png"
-        },
-        {
-          "player": "Drake Maye",
-          "team": "NE",
-          "position": 1,
-          "reason": "BYE WEEK",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4431452.png"
-        },
-        {
-          "player": "Jason Myers",
-          "team": "SEA",
-          "position": 5,
-          "reason": "BYE WEEK",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/2473037.png"
-        },
-        {
-          "player": "Christian Watson",
-          "team": "GB",
-          "position": 3,
-          "reason": "BYE WEEK",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4248528.png"
-        }
-      ],
-      "byeCount": 4
+      "alerts": [],
+      "byeCount": 0
     },
     {
       "name": "Khushi's Scoregasms ",
-      "alerts": [
-        {
-          "player": "Drake London",
-          "team": "ATL",
-          "position": 3,
-          "reason": "BYE WEEK",
-          "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4426502.png"
-        }
-      ],
-      "byeCount": 1
+      "alerts": [],
+      "byeCount": 0
     }
   ]
 }
